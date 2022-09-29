@@ -1,5 +1,5 @@
 ## A simple digital clock that displays according to the 12 hours system.
-### I have downlaoded a special digital looking font 
+### I have downloaded a special digital looking font 
 ### It is very easy to use an external font. 
 After uploading the font using 
 @font-face {
