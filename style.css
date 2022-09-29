@@ -1,0 +1,28 @@
+@font-face {
+  font-family: digitalClock;
+  src: url("./digital-7.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-family: digitalClock;
+  font-size: 5rem;
+  color: rgb(85, 232, 0);
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 3rem;
+  }
+}
