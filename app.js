@@ -1,5 +1,4 @@
 const paragraph = document.querySelector(".displayedClock")
-const container = document.querySelector(".container")
 
 const clockDisplayer = () => {
 let date = new Date();
